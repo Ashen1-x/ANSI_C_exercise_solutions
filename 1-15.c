@@ -36,7 +36,7 @@ int main(){
 
     while(1){
 
-        printf("press 1 for f2c |or|0 for c2f |or| cntrl + c to exit: ", ans);
+        printf("press 1 for f2c |or| 0 for c2f |or| cntrl + c to exit: ", ans);
         scanf("%d", &ans);
 
         if(ans == 1){
